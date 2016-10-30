@@ -10,4 +10,4 @@ print("My name is Erin and I am sad that all the chocolate candy is gone.   ")
 
 print("A girl has no name.")
 
-print("My name is Stephan and I can't spell.")
+print("My name is StirFry and I don't care OH Oh OH I don't care OH care oh! OH! Dlopptyu loopty doo bum da dum math math numbers yeah wisconsin.")
